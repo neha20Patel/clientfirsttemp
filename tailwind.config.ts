@@ -13,8 +13,22 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      screens: {
+        'sm': '576px',
+        // => @media (min-width: 576px) { ... }
+        'md': '900px',
+        // => @media (min-width: 960px) { ... }
+        
+      },
+      
     },
+    fontFamily :{
+      xyz:["Inter"],
+      sen:["Sen"],
+    }
+    
   },
+  
   plugins: [],
 };
 export default config;
