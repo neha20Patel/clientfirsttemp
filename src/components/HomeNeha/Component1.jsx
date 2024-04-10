@@ -24,7 +24,7 @@ const Component1 = () => {
               <p className="font-extralight text-[14px] lg:text-[16px] tracking-wider font-xyz">| May 23, 2022 </p>
             </div>
             <p className="text-[12px] lg:text-[16px] md:text-[14px] sm-text-[12px] font-light mt-7 max-w-[550px] font-xyz">
-               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur  occaecat cupidatat non proident.
             </p>
             <div className="mt-9">
               <a href="#_" className={`mt-10 relative rounded px-5 py-2.5 overflow-hidden group bg-[rgba(255,208,80,1)]  hover:bg-gradient-to-r hover:bg-[rgba(255,208,80,1)]  text-black hover:ring-2 hover:ring-offset-2 hover:ring-[rgba(255,208,80,1)]  transition-all ease-out duration-300 buttonHover`}>
